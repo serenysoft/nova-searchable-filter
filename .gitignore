@@ -1,0 +1,11 @@
+.DS_Store
+.phpunit.result.cache
+/.idea
+/node_modules
+/vendor
+auth.json
+composer.lock
+composer.phar
+package-lock.json
+phpunit.xml
+Thumbs.db
