@@ -28,7 +28,7 @@ use Sereny\NovaSearchableFilter\SearchableFilter
 public function filters(Request $request)
 {
     return [
-	      SearchableFilter::make(__('Departament'), 'department')
+        SearchableFilter::make(__('Departament'), 'department')
     ];
 }
 ```
